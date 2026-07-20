@@ -8,9 +8,9 @@ An attempt to teach information theory through practice with problems grounded i
 
 ### Content
 The repository contains 4 main pdf files that are regularly updated:
-* problems.pdf: The problems to solve
-* hints.pdf: Hints that can be used, if you have difficulties solving the problems alone.
-* cheatsheet.pdf: A cheatsheet with all the necessary theoretical background to get started with problem solving. As more problems are solved, the insights from these problems will be added into this document.
+* [problems.pdf](https://github.com/tsaimat/IT/blob/main/problems.pdf): The problems to solve
+* [hints.pdf](https://github.com/tsaimat/IT/blob/main/hints.pdf): Hints that can be used, if you have difficulties solving the problems alone.
+* [cheatsheet.pdf](https://github.com/tsaimat/IT/blob/main/cheatsheet.pdf): A cheatsheet with all the necessary theoretical background to get started with problem solving. As more problems are solved, the insights from these problems will be added into this document.
 * solutions.pdf: Solutions for past problems.
 
 ### Procedure
