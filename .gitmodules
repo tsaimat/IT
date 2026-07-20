@@ -1,3 +1,4 @@
 [submodule "latex"]
 	path = latex
 	url = https://github.com/tsaimat/InformationTheoryLatex.git
+	branch = main
